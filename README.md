@@ -111,5 +111,8 @@ server_socket.close()
 ### CLIENT:
 ![image](https://github.com/user-attachments/assets/017a5300-51e3-40ef-8f6e-4a7fd236a88d)
 
+### SERVER:
+![image-1](https://github.com/user-attachments/assets/b7d457ba-8f9c-43c3-84c7-1b7f6eecd1b0)
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
